@@ -77,10 +77,6 @@ This tool is intended **only for authorized security testing and educational pur
 
 ---
 
-## ✍️ Author
-
-**Kali GPT**
-Master Kali Linux. Excel in Offensive Security.
 Built with ❤️ by [Balakavi](https://www.instagram.com/kavi.s_network)
 
 ---
